@@ -325,9 +325,9 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Your Name**
+**Shrivishakh S E**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: [https://github.com/Vishakh01]
 
 ---
 
