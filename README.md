@@ -2,12 +2,6 @@
 
 > A modern 2D highway racing game built with **Python** and **Pygame**, featuring realistic driving physics, AI traffic, dynamic weather, nitro boost, particle effects, and an endless highway experience.
 
-![image alt](https://github.com/Vishakh01/highway-racer/blob/e9b45f639a011433137fe00fab54f6780a9c1a19/Ready-To-Race.png)
-
-![image alt](https://github.com/Vishakh01/highway-racer/blob/e9b45f639a011433137fe00fab54f6780a9c1a19/Interface-Day-Light.png)
-
-![image alt](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Night-Light.png).
-
 ---
 
 ## 📖 Overview
@@ -149,7 +143,7 @@ If sound assets are unavailable, placeholder systems are used.
 
 > Modern game menu with clean UI.
 
-![Main Menu](images/main_menu.png)
+![image alt](https://github.com/Vishakh01/highway-racer/blob/e9b45f639a011433137fe00fab54f6780a9c1a19/Ready-To-Race.png)
 
 ---
 
@@ -157,7 +151,7 @@ If sound assets are unavailable, placeholder systems are used.
 
 > Dynamic headlights and nighttime environment.
 
-![Night Gameplay](images/night_mode.png)
+![image alt](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Night-Light.png).
 
 ---
 
@@ -165,7 +159,8 @@ If sound assets are unavailable, placeholder systems are used.
 
 > Rain particles with reduced grip.
 
-![Rain Gameplay](images/rain_mode.png)
+![image alt](https://github.com/Vishakh01/highway-racer/blob/e9b45f639a011433137fe00fab54f6780a9c1a19/Interface-Day-Light.png)
+
 
 > **Note:** Replace these images with your own screenshots.
 > Create a folder named **images/** inside the repository and save the screenshots as:
