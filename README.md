@@ -2,9 +2,11 @@
 
 > A modern 2D highway racing game built with **Python** and **Pygame**, featuring realistic driving physics, AI traffic, dynamic weather, nitro boost, particle effects, and an endless highway experience.
 
-![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-2.x-00AA00?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![image alt]([https://img.shields.io/badge/Pygame-2.x-00AA00?style=for-the-badge](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Ready-To-Race.png))
+
+![image alt]([https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Day-Light.png))
+
+![image alt]([https://img.shields.io/badge/License-MIT-blue?style=for-the-badge](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Night-Light.png)
 
 ---
 
