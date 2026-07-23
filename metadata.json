@@ -1,0 +1,6 @@
+{
+  "name": "Highway Racer",
+  "description": "An endless highway car racing game featuring realistic physics, AI traffic, weather effects, and full Python Pygame source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

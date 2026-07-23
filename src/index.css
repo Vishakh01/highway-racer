@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-100 antialiased font-sans selection:bg-cyan-500/30 selection:text-cyan-200;
+    background-image: 
+      radial-gradient(circle at 15% 15%, rgba(14, 165, 233, 0.12) 0%, transparent 40%),
+      radial-gradient(circle at 85% 20%, rgba(225, 29, 72, 0.12) 0%, transparent 45%),
+      radial-gradient(circle at 50% 80%, rgba(168, 85, 247, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 80% 85%, rgba(16, 185, 129, 0.08) 0%, transparent 40%);
+    background-attachment: fixed;
+  }
+}
+
+.frosted-glass {
+  background: rgba(15, 23, 42, 0.55);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.frosted-glass-card {
+  background: rgba(30, 41, 59, 0.45);
+  backdrop-filter: blur(16px) saturate(160%);
+  -webkit-backdrop-filter: blur(16px) saturate(160%);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.frosted-glass-hover {
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.frosted-glass-hover:hover {
+  background: rgba(51, 65, 85, 0.55);
+  border-color: rgba(255, 255, 255, 0.22);
+  box-shadow: 0 12px 40px 0 rgba(0, 0, 0, 0.45), 0 0 20px 0 rgba(255, 255, 255, 0.05);
+}
+
+.frosted-glass-interactive {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.frosted-glass-interactive:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
