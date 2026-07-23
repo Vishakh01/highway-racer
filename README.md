@@ -6,7 +6,7 @@
 
 ![image alt]([https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Day-Light.png))
 
-![image alt]([https://img.shields.io/badge/License-MIT-blue?style=for-the-badge](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Night-Light.png).
+![image alt](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Night-Light.png).
 
 ---
 
