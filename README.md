@@ -4,7 +4,7 @@
 
 ![image alt]([https://img.shields.io/badge/Pygame-2.x-00AA00?style=for-the-badge](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Ready-To-Race.png))
 
-![image alt]([https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Day-Light.png))
+![image alt](https://github.com/Vishakh01/highway-racer/blob/e9b45f639a011433137fe00fab54f6780a9c1a19/Interface-Day-Light.png)
 
 ![image alt](https://github.com/Vishakh01/highway-racer/blob/a2edc7c38eb4faef0d39279c3320982cd8ecf684/Interface-Night-Light.png).
 
